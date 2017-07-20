@@ -56,10 +56,10 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "left",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -71,7 +71,8 @@
           },
           "title": "SOLID COLOR INTRO",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>",
+          "_customCSS": "background: rgb(243,197,189);\nbackground: -moz-linear-gradient(left, rgb(243,197,189) 0%, rgb(198,186,75) 29%, rgb(234,40,3) 51%, rgb(225,237,0) 75%, rgb(199,34,0) 100%);\nbackground: -webkit-linear-gradient(left, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nbackground: linear-gradient(to right, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=1 );"
         },
         {
           "_params": {
@@ -120,7 +121,8 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-6"
+          "_anchor": "msg-box5-6",
+          "_customCSS": "background: rgb(243,197,189);\nbackground: -moz-linear-gradient(left, rgb(243,197,189) 0%, rgb(198,186,75) 29%, rgb(234,40,3) 51%, rgb(225,237,0) 75%, rgb(199,34,0) 100%);\nbackground: -webkit-linear-gradient(left, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nbackground: linear-gradient(to right, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=1 );"
         },
         {
           "_inherit": "testimonials1",
@@ -204,7 +206,8 @@
             }
           ],
           "_name": "testimonials3",
-          "_anchor": "testimonials3-2"
+          "_anchor": "testimonials3-2",
+          "_customCSS": "background: rgb(243,197,189);\nbackground: -moz-linear-gradient(left, rgb(243,197,189) 0%, rgb(198,186,75) 29%, rgb(234,40,3) 51%, rgb(225,237,0) 75%, rgb(199,34,0) 100%);\nbackground: -webkit-linear-gradient(left, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nbackground: linear-gradient(to right, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=1 );"
         },
         {
           "_params": {
@@ -220,10 +223,11 @@
           "_anchor": "content1-1",
           "_styles": {
             "P": {
-              "font-size": "46px",
+              "font-size": "22px",
               "color": "#28324e"
             }
-          }
+          },
+          "_customCSS": "background: rgb(243,197,189);\nbackground: -moz-linear-gradient(left, rgb(243,197,189) 0%, rgb(198,186,75) 29%, rgb(234,40,3) 51%, rgb(225,237,0) 75%, rgb(199,34,0) 100%);\nbackground: -webkit-linear-gradient(left, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nbackground: linear-gradient(to right, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=1 );"
         },
         {
           "_params": {
@@ -238,7 +242,8 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-4"
+          "_anchor": "content7-4",
+          "_customCSS": "background: rgb(243,197,189);\nbackground: -moz-linear-gradient(left, rgb(125,197,189) 0%, rgb(198,186,75) 29%, rgb(234,40,3) 51%, rgb(225,237,0) 75%, rgb(199,34,0) 100%);\nbackground: -webkit-linear-gradient(left, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nbackground: linear-gradient(to right, rgb(123,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=1 );"
         },
         {
           "_inherit": "features4",
@@ -537,10 +542,10 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "left",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -552,167 +557,8 @@
           },
           "title": "SOLID COLOR INTRO",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
-        },
-        {
-          "_inherit": "pricing-table1",
-          "_styles": {
-            ".mbr-plan-header, .mbr-plan-body": {
-              "background-color": "#f4f4f4"
-            },
-            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
-              "color": "#28262b"
-            },
-            ".mbr-plan": {
-              "border-color": "#e8e8e8"
-            },
-            ".mbr-plan .list-group-item": {
-              "border-color": "#cfcfcf"
-            }
-          },
-          "_name": "pricing-table2",
-          "_anchor": "pricing-table2-1",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": "",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRICING TABLE",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "mo.",
-          "description1": "More details",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "mo.",
-          "description2": "More details",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "mo.",
-          "description3": "More details",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "mo.",
-          "description4": "More details",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
-        },
-        {
-          "_inherit": "pricing-table1",
-          "_styles": {
-            ".mbr-plan-header, .mbr-plan-body": {
-              "background-color": "#f4f4f4"
-            },
-            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
-              "color": "#28262b"
-            },
-            ".mbr-plan": {
-              "border-color": "#e8e8e8"
-            },
-            ".mbr-plan .list-group-item": {
-              "border-color": "#cfcfcf"
-            }
-          },
-          "_name": "pricing-table2",
-          "_anchor": "pricing-table2-3",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": "",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRICING TABLE",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "mo.",
-          "description1": "More details",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "mo.",
-          "description2": "More details",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "mo.",
-          "description3": "More details",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "mo.",
-          "description4": "More details",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "_customCSS": "background: rgb(243,197,189);\nbackground: -moz-linear-gradient(left, rgb(243,197,189) 0%, rgb(198,186,75) 29%, rgb(234,40,3) 51%, rgb(225,237,0) 75%, rgb(199,34,0) 100%);\nbackground: -webkit-linear-gradient(left, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nbackground: linear-gradient(to right, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=1 );"
         },
         {
           "_inherit": "pricing-table1",
@@ -792,7 +638,8 @@
           "period4": "mo.",
           "description4": "More details",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_customCSS": "background: rgb(243,197,189);\nbackground: -moz-linear-gradient(left, rgb(243,197,189) 0%, rgb(198,186,75) 29%, rgb(234,40,3) 51%, rgb(225,237,0) 75%, rgb(199,34,0) 100%);\nbackground: -webkit-linear-gradient(left, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nbackground: linear-gradient(to right, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=1 );"
         },
         {
           "_name": "slider3",
@@ -850,7 +697,8 @@
             ]
           },
           "_anchor": "index-slider3-0",
-          "articleLayout": false
+          "articleLayout": false,
+          "_customCSS": "background: rgb(243,197,189);\nbackground: -moz-linear-gradient(left, rgb(243,197,189) 0%, rgb(198,186,75) 29%, rgb(234,40,3) 51%, rgb(225,237,0) 75%, rgb(199,34,0) 100%);\nbackground: -webkit-linear-gradient(left, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nbackground: linear-gradient(to right, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=1 );"
         },
         {
           "_inherit": "gallery1",
@@ -942,7 +790,8 @@
             ]
           },
           "_anchor": "index-gallery2-0",
-          "articleLayout": false
+          "articleLayout": false,
+          "_customCSS": "background: rgb(243,197,189);\nbackground: -moz-linear-gradient(left, rgb(243,197,189) 0%, rgb(198,186,75) 29%, rgb(234,40,3) 51%, rgb(225,237,0) 75%, rgb(199,34,0) 100%);\nbackground: -webkit-linear-gradient(left, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nbackground: linear-gradient(to right, rgb(243,197,189) 0%,rgb(198,186,75) 29%,rgb(234,40,3) 51%,rgb(225,237,0) 75%,rgb(199,34,0) 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=1 );"
         }
       ]
     }

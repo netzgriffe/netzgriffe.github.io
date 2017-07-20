@@ -417,11 +417,32 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #fac51c;
 }
+#index-header5-0 {
+  background: #f3c5bd;
+  background: -moz-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: -webkit-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: linear-gradient(to right, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3c5bd', endColorstr='#c72200', GradientType=1);
+}
 #index-header5-0 .mbr-section-title {
   color: #000;
 }
 #index-header5-0 .mbr-section-lead {
   color: #9c9a9a;
+}
+#msg-box5-6 {
+  background: #f3c5bd;
+  background: -moz-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: -webkit-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: linear-gradient(to right, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3c5bd', endColorstr='#c72200', GradientType=1);
+}
+#testimonials3-2 {
+  background: #f3c5bd;
+  background: -moz-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: -webkit-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: linear-gradient(to right, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3c5bd', endColorstr='#c72200', GradientType=1);
 }
 #testimonials3-2 .mbr-section-title {
   color: #efefef;
@@ -433,9 +454,23 @@ h6,
   font-size: 20px;
   color: #b8312f;
 }
+#content1-1 {
+  background: #f3c5bd;
+  background: -moz-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: -webkit-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: linear-gradient(to right, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3c5bd', endColorstr='#c72200', GradientType=1);
+}
 #content1-1 P {
-  font-size: 46px;
+  font-size: 22px;
   color: #28324e;
+}
+#content7-4 {
+  background: #f3c5bd;
+  background: -moz-linear-gradient(left, #7dc5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: -webkit-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: linear-gradient(to right, #7bc5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3c5bd', endColorstr='#c72200', GradientType=1);
 }
 #features7-5 .card-subtitle {
   color: #bcbcbc;
@@ -450,45 +485,25 @@ h6,
 #features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #f7da64;
 }
+#index-header5-1 {
+  background: #f3c5bd;
+  background: -moz-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: -webkit-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: linear-gradient(to right, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3c5bd', endColorstr='#c72200', GradientType=1);
+}
 #index-header5-1 .mbr-section-title {
   color: #000;
 }
 #index-header5-1 .mbr-section-lead {
   color: #9c9a9a;
 }
-#pricing-table2-1 .mbr-plan-header,
-#pricing-table2-1 .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-1 ul,
-#pricing-table2-1 .mbr-plan-title,
-#pricing-table2-1 .mbr-price-value,
-#pricing-table2-1 .mbr-price-figure,
-#pricing-table2-1 .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-1 .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-1 .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#pricing-table2-3 .mbr-plan-header,
-#pricing-table2-3 .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-3 ul,
-#pricing-table2-3 .mbr-plan-title,
-#pricing-table2-3 .mbr-price-value,
-#pricing-table2-3 .mbr-price-figure,
-#pricing-table2-3 .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-3 .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-3 .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
+#pricing-table2-2 {
+  background: #f3c5bd;
+  background: -moz-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: -webkit-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: linear-gradient(to right, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3c5bd', endColorstr='#c72200', GradientType=1);
 }
 #pricing-table2-2 .mbr-plan-header,
 #pricing-table2-2 .mbr-plan-body {
@@ -506,4 +521,18 @@ h6,
 }
 #pricing-table2-2 .mbr-plan .list-group-item {
   border-color: #cfcfcf;
+}
+#index-slider3-0 {
+  background: #f3c5bd;
+  background: -moz-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: -webkit-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: linear-gradient(to right, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3c5bd', endColorstr='#c72200', GradientType=1);
+}
+#index-gallery2-0 {
+  background: #f3c5bd;
+  background: -moz-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: -webkit-linear-gradient(left, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  background: linear-gradient(to right, #f3c5bd 0%, #c6ba4b 29%, #ea2803 51%, #e1ed00 75%, #c72200 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3c5bd', endColorstr='#c72200', GradientType=1);
 }
